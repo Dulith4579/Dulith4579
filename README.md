@@ -1,16 +1,25 @@
 ## 👋
 
-<!--
-**Dulith4579/Dulith4579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 **Cross-Platform Engineering:** Architecting performant mobile and web applications with Flutter, Dart, React, and modern UI/UX design systems.
+- 🧠 **Applied AI & Local LLMs:** Fine-tuning lightweight open-source models (QLoRA, Unsloth) and deploying edge-first inference runtimes using Ollama and vLLM.
+- ⚙️ **Systems & Backend:** Designing high-throughput RESTful/gRPC APIs, event-driven pipelines, and vector databases (PostgreSQL/pgvector, MongoDB) deployed via Docker and AWS.
+- 📊 **Quantitative Systems:** Building algorithmic market scan routines, backtesting pipelines, and data analytics architectures.
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Dart, SQL |
+| **Frontend & Mobile** | Flutter, React.js, Next.js, Tailwind CSS, Three.js |
+| **Backend & APIs** | Node.js, Express.js, FastAPI, REST, WebSockets |
+| **AI / Machine Learning** | PyTorch, Hugging Face, Unsloth, QLoRA, LangChain, Ollama |
+| **Databases & Vectors** | PostgreSQL, pgvector, MongoDB, Redis, Firebase Firestore |
+| **DevOps & Cloud** | Docker, AWS (EKS, Lambda, SQS, SNS, S3), Git, CI/CD pipelines |
+
+---
