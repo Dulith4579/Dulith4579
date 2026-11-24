@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dulith 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs%2C+RAG+%26+AI+Agents;Voice+AI+%26+Fine-tuning+(LoRA);Quant+%26+Algorithmic+Trading+Systems;I+build+AI+and+measure+if+it+works" alt="Typing SVG" /></a>
 
